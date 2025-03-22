@@ -60,6 +60,9 @@ DB_PORT=5432 <--- example
 
 
 ## Screenshots and Screen Recording
+![Image Alt](https://github.com/DippaFudd/SQL--ET/blob/3a4e4b50732039106df3c49b5ff853e774e12689/2025-03-22%20(1).png)
+![Image Alt](https://github.com/DippaFudd/SQL--ET/blob/3a4e4b50732039106df3c49b5ff853e774e12689/2025-03-22%20(3).png)
+![Image Alt](https://github.com/DippaFudd/SQL--ET/blob/3a4e4b50732039106df3c49b5ff853e774e12689/2025-03-22%20(4).png)
 
 Video link
 https://app.screencastify.com/v3/watch/Tss6B58zzyu2VhsH51uX
