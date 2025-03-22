@@ -31,13 +31,13 @@ The Employee Tracker is a command-line application built using Node.js, Inquirer
 ## Installation
 - Clone the repo
 - Install all dependencies: npm install
--Set up your PostgreSQL database (make .env file)
+- Set up your PostgreSQL database (make .env file)
 DB_HOST=localhost
 DB_USER=<your-username>
 DB_PASSWORD=<your-password>
 DB_NAME=employee_tracker
 DB_PORT=5432 <--- example
--Run the application: npm start
+- Run the application: npm start
 
 ## Usage
    - Follow the prompts in the command-line interface to:
